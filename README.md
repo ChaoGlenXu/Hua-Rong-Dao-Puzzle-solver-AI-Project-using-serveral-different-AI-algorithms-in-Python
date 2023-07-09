@@ -11,32 +11,29 @@ The puzzle looks like the following:
 ![The Hua Rong Dao puzzle](https://github.com/ChaoGlenXu/Hua-Rong-Dao-Puzzle-solver-AI-Project-using-serveral-different-AI-algorithms-in-Python/assets/59375616/1658be0e-5eae-4eaf-b14a-a3cddb540d7a)
 
 Here is an example of a initial state:
-
+```
  ^^^^
- 
  vvvv
- 
  22..
- 
  11<>
- 
  1122
+```
 
 We can test my program by using several initial configurations of various difficulties. For each initial configuration, we can run the following two commands:
-
+```
 python3 hrd.py --algo astar --inputfile <input file> --outputfile <output file> 
 
 python3 hrd.py --algo dfs --inputfile <input file> --outputfile <output file>
-
+```
 
 
 
 For example, if we run the following commands for an input file hrd5.txt:
-
+```
 python3 hrd.py --algo astar --inputfile hrd5.txt --outputfile hrd5sol_astar.txt
 
 python3 hrd.py --algo dfs --inputfile hrd5.txt --outputfile hrd5sol_dfs.txt
-
+```
 
 
 
