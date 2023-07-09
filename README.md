@@ -4,6 +4,7 @@ Hua Rong Dao Puzzle solver project using serveral different AI algorithm includi
 This is an AI project that I implemented in Python.
 I used 3 different AI alogrithm to solve this puzzle game called Hua Rong Dao.
 The Three algorithm are : Depth First Search Algorithm, A Star Alorithm, and Manhattan Distance heuristic Algorithm
+This project will output and output files that contains a optimal path to the solution
 
 I completed this project in Feburary 2023
 
