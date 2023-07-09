@@ -12,9 +12,13 @@ The puzzle looks like the following:
 
 Here is an example of a initial state:
  ^^^^
+ 
  vvvv
+ 
  22..
+ 
  11<>
+ 
  1122
 
 We can test my program by using several initial configurations of various difficulties. For each initial configuration, we can run the following two commands:
