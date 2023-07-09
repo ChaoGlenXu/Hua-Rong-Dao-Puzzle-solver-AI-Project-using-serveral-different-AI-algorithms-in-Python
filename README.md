@@ -11,6 +11,7 @@ The puzzle looks like the following:
 ![The Hua Rong Dao puzzle](https://github.com/ChaoGlenXu/Hua-Rong-Dao-Puzzle-solver-AI-Project-using-serveral-different-AI-algorithms-in-Python/assets/59375616/1658be0e-5eae-4eaf-b14a-a3cddb540d7a)
 
 Here is an example of a initial state:
+
  ^^^^
  
  vvvv
