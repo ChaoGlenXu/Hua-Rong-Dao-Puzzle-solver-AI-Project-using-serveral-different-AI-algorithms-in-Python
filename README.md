@@ -26,4 +26,9 @@ We can test my program by using several initial configurations of various diffic
 python3 hrd.py --algo astar --inputfile <input file> --outputfile <output file> 
 python3 hrd.py --algo dfs --inputfile <input file> --outputfile <output file>
 
+
+For example, if we run the following commands for an input file hrd5.txt:
+python3 hrd.py --algo astar --inputfile hrd5.txt --outputfile hrd5sol_astar.txt
+python3 hrd.py --algo dfs --inputfile hrd5.txt --outputfile hrd5sol_dfs.txt
+
 This project is completed by Chao(Glen) Xu 
